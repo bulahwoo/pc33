@@ -1,0 +1,11 @@
+PASS	Basic Statistics	pc33_read2.fq.gz
+WARN	Per base sequence quality	pc33_read2.fq.gz
+FAIL	Per tile sequence quality	pc33_read2.fq.gz
+PASS	Per sequence quality scores	pc33_read2.fq.gz
+FAIL	Per base sequence content	pc33_read2.fq.gz
+WARN	Per sequence GC content	pc33_read2.fq.gz
+PASS	Per base N content	pc33_read2.fq.gz
+PASS	Sequence Length Distribution	pc33_read2.fq.gz
+WARN	Sequence Duplication Levels	pc33_read2.fq.gz
+PASS	Overrepresented sequences	pc33_read2.fq.gz
+FAIL	Adapter Content	pc33_read2.fq.gz
